@@ -1,0 +1,22 @@
+.viewport {
+    border: 3px solid #eee;
+    float: left;
+    height: 450px;
+    margin: 0 9px 9px 0;
+    overflow: hidden;
+    position: relative;
+    width: 750px;
+}
+
+.viewport a {
+    display: block;
+    position: relative;
+}
+
+.viewport a img {
+    height: 500px;
+    left: -20px;
+    position: relative;
+    top: 0px;
+    width: 800px;
+}
